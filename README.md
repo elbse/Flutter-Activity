@@ -1,5 +1,5 @@
-# PAVLOVA ACTIVITY
+# Pavlova Activity
 
-Output: 
+## Output
 
-C:\dev\Flutter Projects\flutter_application_1\assets\output.jpg
+![Pavlova Activity Output](assets/output.jpg)
