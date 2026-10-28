@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'pavlova.dart';
+import 'edge_insets.dart';
 
 void main() {
   runApp(const MyApp());
@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
           seedColor: Colors.deepPurple,
         ),
       ),
-      home: Pavlova(),
+      home: EdgeInsetsActivity(),
     );
   }
 }
