@@ -8,24 +8,24 @@ This repository contains my Flutter laboratory activities and tasks for practici
   <tr>
     <td align="center" width="50%">
       <h3>Task 6 - Login & Register</h3>
-      <img src="screenshots/login-register.png" width="180" alt="Login and Register Activity"/>
+      <img src="assets\login-sample-output.jpg" width="180" alt="Login and Register Activity"/>
       <p>Login and registration interface.</p>
     </td>
     <td align="center" width="50%">
       <h3>Laboratory Activity 5 - Main and Cross Axis Alignment</h3>
-      <img src="screenshots/main-cross-axis-alignment.png" width="180" alt="Main and Cross Axis Alignment"/>
+      <img src="assets\main-axis-sample-output.jpg" width="180" alt="Main and Cross Axis Alignment"/>
       <p>Flutter layout alignment using mainAxisAlignment and crossAxisAlignment.</p>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <h3>Laboratory Activity 4 - Edge Insets</h3>
-      <img src="screenshots/edge-insets.png" width="180" alt="Edge Insets Activity"/>
+      <img src="assets\edge-insets-output.jpg" width="180" alt="Edge Insets Activity"/>
       <p>Practicing padding and spacing with EdgeInsets.</p>
     </td>
     <td align="center" width="50%">
       <h3>Laboratory Activity 3 - PAVLOVA</h3>
-      <img src="screenshots/pavlova.png" width="180" alt="Pavlova Activity"/>
+      <img src="assets\pavlova-output.jpg" width="180" alt="Pavlova Activity"/>
       <p>A Flutter UI activity recreating a Pavlova recipe layout.</p>
     </td>
   </tr>
