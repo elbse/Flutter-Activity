@@ -51,12 +51,6 @@ lib/
 ├── pavlova.dart
 └── register.dart
 
-screenshots/
-├── login-register.png
-├── main-cross-axis-alignment.png
-├── edge-insets.png
-└── pavlova.png
-```
 
 ## 🚀 How to Run
 
@@ -92,4 +86,4 @@ This repository serves as a collection of my Flutter activities as I learn and p
 
 **Author:** [Charisse C. Priego](https://github.com/elbse)
 
-![Login Activity](assets/login-sample-output.jpg)
+
