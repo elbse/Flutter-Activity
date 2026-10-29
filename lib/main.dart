@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'edge_insets.dart';
+import 'login.dart';
 
 void main() {
   runApp(const MyApp());
@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
           seedColor: Colors.deepPurple,
         ),
       ),
-      home: EdgeInsetsActivity(),
+      home: LoginPage(),
     );
   }
 }
