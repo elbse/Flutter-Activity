@@ -2,7 +2,6 @@
 
 This repository contains my Flutter laboratory activities and tasks for practicing mobile app development using Flutter and Dart.
 
-## 📱 Activities
 
 ## 📱 Activities
 
@@ -92,3 +91,5 @@ This repository serves as a collection of my Flutter activities as I learn and p
 ---
 
 **Author:** [Charisse C. Priego](https://github.com/elbse)
+
+![Login Activity](assets/login-sample-output.jpg)
